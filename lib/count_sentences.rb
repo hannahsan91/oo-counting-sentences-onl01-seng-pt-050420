@@ -29,4 +29,5 @@ class String
     sentence_count = txt.split(/\.|\?|!/).length
     puts sentence_count
   end
+  end
 end
